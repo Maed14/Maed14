@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/>
+<h1>Hi, I'm Soukmaed! <br/>
   <a href="https://github.com/joshmadakor1">Computer Science(Software Engineering) Student</a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
